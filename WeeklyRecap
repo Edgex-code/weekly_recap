@@ -1,0 +1,42 @@
+[
+  {
+    "week": 1,
+    "weekTitle": "Week of August 4-8, 2025",
+    "sections": [
+      {
+        "title": "Global Equities",
+        "content": "Global markets MSCI World down 2.5%, Developed Markets -2.5%,  Emerging Markets -2.5%; S&P 500 down 2.4% and MAG7 also down 1.4%; European Indices Euro Stoxx 50 -3.5%; Asian Indices declined. China CSI lowered 1.8%  and Hang Seng down 3.5%, Nikkei 225 -1.6%. 
+"
+      },
+      {
+        "title": "US Equities",
+        "content": "U.S. equity markets fell sharply this week, with all major indexes declining as trade tensions, weak economic data, and mixed signals from the Fed weighed on sentiment. Markets were rattled after President Trump announced sweeping tariff increases, effective August 7, heightening uncertainty just days ahead of the deadline. Despite some new trade deals and extensions, tariff policy drove volatility. The Fed kept rates unchanged for a fifth straight meeting. Markets grew more dovish after core PCE inflation rose 2.8% YoY in June and the July jobs report showed just 73,000 new jobs, far below expectations. 
+"
+      },
+      {
+        "title": "European Equities",
+        "content": "European stocks sold off. GDP growth in the eurozone slowed to 0.1% QoQ in Q2, down from 0.6% in Q1, but still beat flat growth expectations. Inflation held firm at 2.0% headline and 2.3% core. Unemployment remained low at 6.2%, while economic sentiment improved, driven by better outlooks in industry, services, and retail. EU–U.S. trade deal fails to inspire confidence, the “framework” agreement keeps U.S. tariffs on EU steel and aluminium at 50%, with 15% tariffs on most other EU exports, down from earlier proposals but still restrictive. 
+"
+      },
+      {
+        "title": "APAC Equities",
+        "content": "Japan’s equity markets declined over the week, weighed down by disappointing tech earnings and renewed global trade tensions. Despite strong economic data, including a 1.7% rise in industrial production and 2.0% growth in retail sales for June, sentiment remained fragile. the Chinese equities declined as fresh U.S. tariff hikes dampened global growth sentiment and economic data pointed to a slowdown in China’s recovery. The latest S&P Global manufacturing PMI slid to 49.5 in July, below the expansion threshold and lower than June’s 50.4. Authorities cited weather disruptions, including heatwaves and flooding, as contributing factors to the slump in factory activity.
+"
+      },
+      {
+        "title": "Foreign Exchange",
+        "content": "The U.S. dollar had one of its strongest weeks since September 2022, with the DXY index briefly breaking above the psychologically significant 100 level. While this move hints at further upside potential, gains were capped after an NFP report. The greenback retreated sharply into August as markets reassessed expectations for economic strength and Fed policy direction. The yen depreciated past JPY 150 against the U.S. dollar—its weakest in four months—prompting warnings from Finance Minister Katsunobu Kato over speculative moves and FX volatility.
+"
+      },
+      {
+        "title": "Commodities",
+        "content": "Oil prices advanced further after President Trump threatened penalties on India for continuing to import Russian energy, reigniting supply-side concerns and adding a geopolitical premium to crude markets. In contrast, Comex copper prices plunged after the U.S. clarified that its upcoming 50% import tariffs will apply only to semi-finished copper products, excluding refined and concentrate imports. 
+"
+      },
+      {
+        "title": "Fixed Income",
+        "content": "U.S. Treasury yields fell notably Friday, as markets reacted to a weaker-than-expected July jobs report and new broad-based tariff announcements. The 10-year yield dropped nearly 16 bps to 4.22%, its biggest one-day decline in weeks, reflecting growing concerns about the U.S. economic outlook. Although robust data supported the domestic outlook, the yield on the 10-year Japanese government bond eased to 1.55%, reflecting cautious investor sentiment and ongoing uncertainty around global trade policy and monetary tightening trajectories.
+"
+      }
+    ]
+  },

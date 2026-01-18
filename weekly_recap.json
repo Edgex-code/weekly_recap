@@ -5,7 +5,7 @@
     "sections": [
       {
         "title": "Global Equities",
-        "content": "Global markets MSCI World flat -0.1%, Developed Markets -0.4%, Emerging Markets +2.0%; S&P 500 down 0.7% and MAG7 also down 1.2%; European Indices Euro Stoxx 50 +1.7%; Asian Indices mixed. China CSI flat +0.3%  and Hang Seng up 2.7%, Nikkei 225 -0.5%."
+        "content": "Global markets MSCI World flat +0.33%, Developed Markets +0.09%, Emerging Markets +2.25%; S&P 500 down 0.38% and MAG7 also down 1.58%; European Indices Euro Stoxx 50 +0.53%; Asian Indices mixed. China CSI lower -0.57%  and Hang Seng up 2.34%, Nikkei 225 +5.51%."
       },
       {
         "title": "US Equities",
@@ -17,7 +17,7 @@
       },
       {
         "title": "APAC Equities",
-        "content": "APAC equities exhibited divergent trends as Japanese markets surged to record levels while Chinese shares faced regulatory headwinds. Japan's Nikkei 225 gained 3.84%, driven by the 'Takaichi trade' following news of a snap general election. Investors anticipate that a victory for Prime Minister Takaichi would secure aggressive fiscal stimulus and policy certainty, particularly benefiting AI, nuclear, and defence sectors. Conversely, mainland Chinese indices such as the CSI 300 fell after regulators tightened margin financing requirements, raising the mandatory margin to 100% to cool recent rapid gains. Despite this, Hong Kong’s Hang Seng Index advanced 2.34%. Economic data from China remained robust, with exports growing 6.6% in December and the annual trade surplus hitting a record USD 1.2 trillion. However, persistent deflation and property market challenges continued to weigh on domestic sentiment"
+        "content": "APAC equities exhibited divergent trends as Japanese markets surged to record levels while Chinese shares faced regulatory headwinds. Japan's Nikkei 225 gained driven by the 'Takaichi trade' following news of a snap general election. Investors anticipate that a victory for Prime Minister Takaichi would secure aggressive fiscal stimulus and policy certainty, particularly benefiting AI, nuclear, and defence sectors. Conversely, mainland Chinese indices such as the CSI 300 fell after regulators tightened margin financing requirements, raising the mandatory margin to 100% to cool recent rapid gains. Despite this, Hong Kong’s Hang Seng Index advanced 2.34%. Economic data from China remained robust, with exports growing 6.6% in December and the annual trade surplus hitting a record USD 1.2 trillion. However, persistent deflation and property market challenges continued to weigh on domestic sentiment"
       },
       {
         "title": "Foreign Exchange",
